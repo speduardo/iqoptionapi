@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 requests = "*"
-websocket_client = "==0.56"
+websocket_client = "==1.2.1"
 
 [dev-packages]
 pylint = "*"
